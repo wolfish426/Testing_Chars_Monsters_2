@@ -1,0 +1,174 @@
+
+Mage_4.png
+size: 1367,1367
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1
+  rotate: true
+  xy: 3, 73
+  size: 264, 318
+  orig: 264, 318
+  offset: 0, 0
+  index: -1
+1/10
+  rotate: true
+  xy: 1240, 1117
+  size: 116, 113
+  orig: 118, 115
+  offset: 1, 1
+  index: -1
+1/11
+  rotate: true
+  xy: 645, 665
+  size: 39, 50
+  orig: 41, 52
+  offset: 1, 1
+  index: -1
+1/12
+  rotate: true
+  xy: 698, 659
+  size: 90, 92
+  orig: 92, 94
+  offset: 1, 1
+  index: -1
+1/13
+  rotate: false
+  xy: 1240, 995
+  size: 104, 119
+  orig: 106, 121
+  offset: 1, 1
+  index: -1
+1/14
+  rotate: false
+  xy: 666, 713
+  size: 26, 36
+  orig: 32, 40
+  offset: 5, 1
+  index: -1
+1/15
+  rotate: false
+  xy: 857, 656
+  size: 380, 708
+  orig: 382, 710
+  offset: 1, 1
+  index: -1
+1/16
+  rotate: true
+  xy: 1026, 100
+  size: 118, 178
+  orig: 120, 180
+  offset: 1, 1
+  index: -1
+1/17
+  rotate: false
+  xy: 666, 752
+  size: 150, 184
+  orig: 152, 186
+  offset: 1, 1
+  index: -1
+1/18
+  rotate: false
+  xy: 1292, 630
+  size: 68, 134
+  orig: 70, 136
+  offset: 1, 1
+  index: -1
+1/19
+  rotate: false
+  xy: 1262, 36
+  size: 83, 182
+  orig: 85, 184
+  offset: 1, 1
+  index: -1
+1/2
+  rotate: true
+  xy: 1240, 767
+  size: 225, 72
+  orig: 225, 72
+  offset: 0, 0
+  index: -1
+1/20
+  rotate: false
+  xy: 547, 49
+  size: 476, 232
+  orig: 476, 232
+  offset: 0, 0
+  index: -1
+1/3
+  rotate: true
+  xy: 598, 707
+  size: 229, 65
+  orig: 229, 65
+  offset: 0, 0
+  index: -1
+1/4
+  rotate: false
+  xy: 1026, 35
+  size: 167, 62
+  orig: 167, 62
+  offset: 0, 0
+  index: -1
+1/5
+  rotate: false
+  xy: 3, 3
+  size: 204, 67
+  orig: 204, 67
+  offset: 0, 0
+  index: -1
+1/6
+  rotate: false
+  xy: 3, 340
+  size: 592, 596
+  orig: 592, 596
+  offset: 0, 0
+  index: -1
+1/7
+  rotate: true
+  xy: 598, 284
+  size: 369, 453
+  orig: 369, 453
+  offset: 0, 0
+  index: -1
+1/8
+  rotate: false
+  xy: 324, 53
+  size: 220, 284
+  orig: 220, 284
+  offset: 0, 0
+  index: -1
+1/9
+  rotate: false
+  xy: 1240, 1236
+  size: 115, 128
+  orig: 117, 130
+  offset: 1, 1
+  index: -1
+1/b
+  rotate: true
+  xy: 1207, 10
+  size: 208, 52
+  orig: 208, 52
+  offset: 0, 0
+  index: -1
+1/k
+  rotate: false
+  xy: 3, 939
+  size: 851, 425
+  orig: 851, 425
+  offset: 0, 0
+  index: -1
+1/r
+  rotate: false
+  xy: 598, 661
+  size: 44, 43
+  orig: 46, 45
+  offset: 1, 1
+  index: -1
+1/shadow
+  rotate: true
+  xy: 1054, 221
+  size: 432, 235
+  orig: 449, 251
+  offset: 10, 7
+  index: -1

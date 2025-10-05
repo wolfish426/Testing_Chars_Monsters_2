@@ -1,0 +1,118 @@
+
+Fighter_4.png
+size: 1134,1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1
+  rotate: false
+  xy: 3, 581
+  size: 753, 550
+  orig: 753, 550
+  offset: 0, 0
+  index: -1
+1/10
+  rotate: false
+  xy: 998, 746
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+1/11
+  rotate: true
+  xy: 427, 64
+  size: 258, 170
+  orig: 258, 170
+  offset: 0, 0
+  index: -1
+1/12
+  rotate: false
+  xy: 998, 855
+  size: 130, 276
+  orig: 138, 308
+  offset: 8, 0
+  index: -1
+1/13
+  rotate: false
+  xy: 3, 18
+  size: 421, 228
+  orig: 421, 228
+  offset: 0, 0
+  index: -1
+1/14
+  rotate: false
+  xy: 600, 87
+  size: 121, 235
+  orig: 121, 235
+  offset: 0, 0
+  index: -1
+1/15
+  rotate: false
+  xy: 987, 327
+  size: 144, 199
+  orig: 144, 199
+  offset: 0, 0
+  index: -1
+1/2
+  rotate: false
+  xy: 3, 249
+  size: 378, 329
+  orig: 378, 329
+  offset: 0, 0
+  index: -1
+1/3
+  rotate: false
+  xy: 384, 325
+  size: 272, 253
+  orig: 272, 253
+  offset: 0, 0
+  index: -1
+1/4
+  rotate: false
+  xy: 724, 129
+  size: 147, 206
+  orig: 147, 206
+  offset: 0, 0
+  index: -1
+1/5
+  rotate: false
+  xy: 659, 343
+  size: 171, 183
+  orig: 171, 183
+  offset: 0, 0
+  index: -1
+1/6
+  rotate: false
+  xy: 874, 219
+  size: 103, 116
+  orig: 117, 126
+  offset: 7, 5
+  index: -1
+1/7
+  rotate: true
+  xy: 759, 529
+  size: 170, 246
+  orig: 170, 246
+  offset: 0, 0
+  index: -1
+1/8
+  rotate: true
+  xy: 833, 338
+  size: 188, 151
+  orig: 188, 155
+  offset: 0, 2
+  index: -1
+1/9
+  rotate: true
+  xy: 980, 167
+  size: 157, 151
+  orig: 157, 151
+  offset: 0, 0
+  index: -1
+1/shad
+  rotate: true
+  xy: 759, 702
+  size: 429, 236
+  orig: 449, 251
+  offset: 9, 9
+  index: -1

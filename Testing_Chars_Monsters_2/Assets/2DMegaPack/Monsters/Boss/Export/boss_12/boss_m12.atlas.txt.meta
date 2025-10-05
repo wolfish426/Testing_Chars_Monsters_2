@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc2ee3dfdcb452c49a2647ad62c456af
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Boss/Export/boss_12/boss_m12.atlas.txt
+  uploadId: 726511

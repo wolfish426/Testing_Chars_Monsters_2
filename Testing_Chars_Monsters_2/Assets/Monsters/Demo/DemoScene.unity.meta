@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b8670805e7b24629b50192d1a8ad47e
+timeCreated: 1532240059
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Demo/DemoScene.unity
+  uploadId: 391006

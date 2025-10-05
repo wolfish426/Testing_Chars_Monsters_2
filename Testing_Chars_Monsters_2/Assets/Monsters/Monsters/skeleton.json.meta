@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9feb00b465004a928222ce624d34085
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Monsters/skeleton.json
+  uploadId: 391006

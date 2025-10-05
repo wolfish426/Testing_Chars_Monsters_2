@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 18d70fad2530249c4af3587b69148544
+timeCreated: 1535343553
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Monsters/skeleton_Atlas.asset
+  uploadId: 391006

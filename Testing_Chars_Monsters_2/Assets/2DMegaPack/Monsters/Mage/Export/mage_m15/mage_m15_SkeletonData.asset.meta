@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9de3282510e6d2644a88a14fb0505d01
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Mage/Export/mage_m15/mage_m15_SkeletonData.asset
+  uploadId: 726511

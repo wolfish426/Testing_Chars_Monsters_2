@@ -1,0 +1,139 @@
+
+knight_m3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 527, 383
+  size: 171, 211
+  orig: 171, 211
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 254, 323
+  size: 271, 271
+  orig: 271, 271
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 418, 680
+  size: 82, 204
+  orig: 82, 204
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 700, 457
+  size: 163, 137
+  orig: 163, 137
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 217, 9
+  size: 96, 187
+  orig: 96, 187
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1, 162
+  size: 106, 149
+  orig: 106, 149
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1, 21
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 109, 180
+  size: 131, 106
+  orig: 131, 106
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 374, 171
+  size: 102, 150
+  orig: 102, 151
+  offset: 0, 1
+  index: -1
+18
+  rotate: true
+  xy: 1, 313
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 709, 294
+  size: 84, 161
+  orig: 84, 161
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 527, 242
+  size: 139, 180
+  orig: 139, 180
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 109, 78
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 418, 641
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 418, 602
+  size: 116, 37
+  orig: 116, 37
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 254, 198
+  size: 118, 123
+  orig: 118, 123
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 636, 596
+  size: 393, 353
+  orig: 393, 353
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 254, 614
+  size: 148, 162
+  orig: 148, 162
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 764
+  size: 633, 225
+  orig: 633, 225
+  offset: 0, 0
+  index: -1

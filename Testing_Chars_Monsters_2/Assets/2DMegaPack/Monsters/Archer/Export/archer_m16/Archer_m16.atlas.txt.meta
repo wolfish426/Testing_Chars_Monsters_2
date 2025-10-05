@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 627e4a6e02a88fb4684e222e8e0f3e0f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Archer/Export/archer_m16/Archer_m16.atlas.txt
+  uploadId: 726511

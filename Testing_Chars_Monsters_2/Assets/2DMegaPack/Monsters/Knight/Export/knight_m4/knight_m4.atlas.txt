@@ -1,0 +1,146 @@
+
+knight_m4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 567, 748
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 757, 223
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 254, 366
+  size: 300, 271
+  orig: 300, 271
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 788
+  size: 635, 219
+  orig: 635, 219
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1, 90
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 853, 403
+  size: 70, 154
+  orig: 70, 154
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 411, 658
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 254, 229
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1, 214
+  size: 115, 121
+  orig: 115, 121
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1, 337
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 851, 176
+  size: 77, 163
+  orig: 77, 163
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 567, 708
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 757, 341
+  size: 94, 132
+  orig: 94, 132
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 383, 257
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 556, 427
+  size: 210, 186
+  orig: 210, 186
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 638, 639
+  size: 349, 368
+  orig: 349, 368
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 556, 274
+  size: 199, 151
+  orig: 199, 151
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 254, 641
+  size: 145, 155
+  orig: 145, 155
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 744, 475
+  size: 167, 162
+  orig: 167, 162
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 118, 172
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1

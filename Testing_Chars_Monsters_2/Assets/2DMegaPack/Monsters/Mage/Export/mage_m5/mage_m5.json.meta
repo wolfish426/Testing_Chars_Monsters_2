@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a7ccca16b573c1499746c75df0ce13a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Mage/Export/mage_m5/mage_m5.json
+  uploadId: 726511

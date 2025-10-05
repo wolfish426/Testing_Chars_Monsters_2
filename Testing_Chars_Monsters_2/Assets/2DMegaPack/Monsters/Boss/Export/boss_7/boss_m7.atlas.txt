@@ -1,0 +1,111 @@
+
+boss_m7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 559, 780
+  size: 401, 618
+  orig: 401, 618
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 1183
+  size: 672, 748
+  orig: 672, 748
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1066, 1574
+  size: 375, 357
+  orig: 375, 357
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 855, 1219
+  size: 143, 181
+  orig: 143, 181
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 675, 1226
+  size: 168, 178
+  orig: 168, 178
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 1667, 1669
+  size: 132, 144
+  orig: 132, 144
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1667, 1803
+  size: 128, 264
+  orig: 128, 264
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1443, 1772
+  size: 159, 222
+  orig: 159, 222
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1179, 837
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 986, 1364
+  size: 182, 52
+  orig: 182, 52
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 675, 1548
+  size: 383, 389
+  orig: 383, 389
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1422, 1332
+  size: 240, 394
+  orig: 240, 394
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1, 766
+  size: 556, 415
+  orig: 556, 415
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 675, 1396
+  size: 309, 150
+  orig: 309, 150
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1066, 1288
+  size: 354, 284
+  orig: 354, 284
+  offset: 0, 0
+  index: -1

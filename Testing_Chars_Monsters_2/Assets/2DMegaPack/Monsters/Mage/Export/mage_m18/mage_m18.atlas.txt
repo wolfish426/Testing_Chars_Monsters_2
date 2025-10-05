@@ -1,0 +1,132 @@
+
+mage_m18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 296, 625
+  size: 448, 398
+  orig: 448, 398
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 669, 243
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 818, 528
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 346
+  size: 293, 677
+  orig: 293, 677
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 497, 166
+  size: 71, 171
+  orig: 71, 171
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 353, 1
+  size: 161, 150
+  orig: 161, 150
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 670, 129
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 641, 23
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 731, 461
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 951, 654
+  size: 138, 52
+  orig: 138, 52
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 746, 631
+  size: 203, 161
+  orig: 203, 161
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 746, 794
+  size: 246, 229
+  orig: 246, 229
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 353, 164
+  size: 142, 219
+  orig: 142, 219
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 505, 22
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 818, 433
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1, 2
+  size: 342, 350
+  orig: 342, 350
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 497, 239
+  size: 170, 144
+  orig: 170, 144
+  offset: 0, 0
+  index: -1
+L19
+  rotate: false
+  xy: 296, 385
+  size: 433, 238
+  orig: 449, 251
+  offset: 6, 6
+  index: -1

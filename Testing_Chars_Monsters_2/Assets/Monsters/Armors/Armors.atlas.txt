@@ -1,0 +1,762 @@
+
+Armors.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Barbed_Chest
+  rotate: false
+  xy: 677, 1452
+  size: 188, 216
+  orig: 512, 512
+  offset: 182, 151
+  index: -1
+Barbed_Helm
+  rotate: false
+  xy: 1501, 1
+  size: 233, 168
+  orig: 512, 512
+  offset: 156, 199
+  index: -1
+Barbed_shoulder_L
+  rotate: false
+  xy: 1445, 834
+  size: 204, 181
+  orig: 512, 512
+  offset: 132, 178
+  index: -1
+Barbed_shoulder_R
+  rotate: true
+  xy: 391, 1876
+  size: 158, 139
+  orig: 512, 512
+  offset: 185, 181
+  index: -1
+Bone_Chest
+  rotate: true
+  xy: 1004, 838
+  size: 241, 215
+  orig: 512, 512
+  offset: 123, 145
+  index: -1
+Bone_Helm
+  rotate: false
+  xy: 666, 214
+  size: 298, 213
+  orig: 512, 512
+  offset: 102, 203
+  index: -1
+Bone_shoulder_L
+  rotate: false
+  xy: 1432, 1459
+  size: 187, 158
+  orig: 512, 512
+  offset: 141, 191
+  index: -1
+Bone_shoulder_R
+  rotate: false
+  xy: 1455, 1339
+  size: 132, 113
+  orig: 512, 512
+  offset: 185, 197
+  index: -1
+Conch_Chest
+  rotate: true
+  xy: 1, 1453
+  size: 227, 201
+  orig: 512, 512
+  offset: 133, 153
+  index: -1
+Conch_Helm
+  rotate: false
+  xy: 1455, 1181
+  size: 189, 156
+  orig: 512, 512
+  offset: 162, 200
+  index: -1
+Conch_shoulder_L
+  rotate: true
+  xy: 304, 984
+  size: 260, 207
+  orig: 512, 512
+  offset: 100, 170
+  index: -1
+Conch_shoulder_R
+  rotate: false
+  xy: 1643, 1017
+  size: 188, 150
+  orig: 512, 512
+  offset: 174, 184
+  index: -1
+Deluxe_Chest
+  rotate: false
+  xy: 867, 1452
+  size: 195, 205
+  orig: 512, 512
+  offset: 145, 158
+  index: -1
+Deluxe_Helm
+  rotate: false
+  xy: 666, 429
+  size: 291, 152
+  orig: 512, 512
+  offset: 103, 199
+  index: -1
+Deluxe_shoulder_L
+  rotate: true
+  xy: 867, 1659
+  size: 191, 168
+  orig: 512, 512
+  offset: 158, 171
+  index: -1
+Deluxe_shoulder_R
+  rotate: false
+  xy: 1777, 1459
+  size: 145, 128
+  orig: 512, 512
+  offset: 179, 170
+  index: -1
+Eagle_Chest
+  rotate: true
+  xy: 1221, 835
+  size: 206, 222
+  orig: 512, 512
+  offset: 147, 133
+  index: -1
+Eagle_Helm
+  rotate: true
+  xy: 1, 874
+  size: 315, 166
+  orig: 512, 512
+  offset: 85, 199
+  index: -1
+Eagle_shoulder_L
+  rotate: false
+  xy: 1064, 1437
+  size: 170, 195
+  orig: 512, 512
+  offset: 160, 207
+  index: -1
+Eagle_shoulder_R
+  rotate: true
+  xy: 1646, 1169
+  size: 135, 154
+  orig: 512, 512
+  offset: 189, 200
+  index: -1
+Gentleman_Chest
+  rotate: false
+  xy: 168, 1191
+  size: 111, 252
+  orig: 512, 512
+  offset: 207, 148
+  index: -1
+Gentleman_Helm
+  rotate: false
+  xy: 677, 1228
+  size: 218, 222
+  orig: 512, 512
+  offset: 164, 201
+  index: -1
+Gentleman_shoulder_L
+  rotate: false
+  xy: 1432, 1619
+  size: 177, 124
+  orig: 512, 512
+  offset: 163, 203
+  index: -1
+Gentleman_shoulder_R
+  rotate: true
+  xy: 897, 1219
+  size: 142, 100
+  orig: 512, 512
+  offset: 176, 193
+  index: -1
+Glamor_Chest
+  rotate: false
+  xy: 1195, 710
+  size: 193, 123
+  orig: 512, 512
+  offset: 154, 274
+  index: -1
+Glamor_Helm
+  rotate: false
+  xy: 258, 1
+  size: 371, 140
+  orig: 512, 512
+  offset: 71, 201
+  index: -1
+Glamor_shoulder_L
+  rotate: true
+  xy: 533, 1867
+  size: 163, 147
+  orig: 512, 512
+  offset: 191, 166
+  index: -1
+Glamor_shoulder_R
+  rotate: true
+  xy: 1924, 1432
+  size: 112, 102
+  orig: 512, 512
+  offset: 189, 182
+  index: -1
+Gold_Chest
+  rotate: true
+  xy: 1037, 1828
+  size: 171, 166
+  orig: 512, 512
+  offset: 181, 170
+  index: -1
+Gold_Helm
+  rotate: true
+  xy: 1445, 1017
+  size: 162, 196
+  orig: 512, 512
+  offset: 190, 201
+  index: -1
+Gold_shoulder_L
+  rotate: false
+  xy: 1651, 856
+  size: 180, 135
+  orig: 512, 512
+  offset: 154, 192
+  index: -1
+Gold_shoulder_R
+  rotate: false
+  xy: 863, 1120
+  size: 124, 97
+  orig: 512, 512
+  offset: 194, 211
+  index: -1
+Jester_Chest
+  rotate: false
+  xy: 992, 120
+  size: 262, 236
+  orig: 512, 512
+  offset: 117, 172
+  index: -1
+Jester_Helm
+  rotate: false
+  xy: 631, 1
+  size: 359, 211
+  orig: 512, 512
+  offset: 91, 197
+  index: -1
+Jester_shoulder_L
+  rotate: true
+  xy: 1731, 667
+  size: 187, 157
+  orig: 512, 512
+  offset: 127, 198
+  index: -1
+Jester_shoulder_R
+  rotate: false
+  xy: 1915, 1296
+  size: 132, 134
+  orig: 512, 512
+  offset: 196, 183
+  index: -1
+King_Chest
+  rotate: false
+  xy: 1238, 1043
+  size: 186, 220
+  orig: 512, 512
+  offset: 157, 133
+  index: -1
+King_Helm
+  rotate: false
+  xy: 999, 1270
+  size: 196, 165
+  orig: 512, 512
+  offset: 174, 199
+  index: -1
+King_shoulder_L
+  rotate: false
+  xy: 1621, 1339
+  size: 154, 151
+  orig: 512, 512
+  offset: 178, 172
+  index: -1
+King_shoulder_R
+  rotate: true
+  xy: 1627, 1785
+  size: 107, 105
+  orig: 512, 512
+  offset: 202, 183
+  index: -1
+Leather_Chest
+  rotate: true
+  xy: 1236, 1459
+  size: 174, 194
+  orig: 512, 512
+  offset: 175, 159
+  index: -1
+Leather_Helm
+  rotate: true
+  xy: 539, 1471
+  size: 201, 135
+  orig: 512, 512
+  offset: 161, 190
+  index: -1
+Leather_shoulder_L
+  rotate: false
+  xy: 1611, 1619
+  size: 172, 164
+  orig: 512, 512
+  offset: 169, 179
+  index: -1
+Leather_shoulder_R
+  rotate: false
+  xy: 1890, 665
+  size: 127, 127
+  orig: 512, 512
+  offset: 190, 186
+  index: -1
+Magister_Chest
+  rotate: true
+  xy: 1736, 1
+  size: 138, 215
+  orig: 512, 512
+  offset: 178, 183
+  index: -1
+Magister_Helm
+  rotate: true
+  xy: 208, 523
+  size: 333, 179
+  orig: 512, 512
+  offset: 107, 183
+  index: -1
+Magister_shoulder_L
+  rotate: false
+  xy: 1439, 235
+  size: 167, 100
+  orig: 512, 512
+  offset: 180, 219
+  index: -1
+Magister_shoulder_R
+  rotate: false
+  xy: 382, 896
+  size: 141, 84
+  orig: 512, 512
+  offset: 157, 199
+  index: -1
+Mexican_Chest
+  rotate: false
+  xy: 420, 287
+  size: 244, 358
+  orig: 512, 512
+  offset: 94, 102
+  index: -1
+Mexican_Helm
+  rotate: false
+  xy: 1, 308
+  size: 417, 213
+  orig: 512, 512
+  offset: 62, 204
+  index: -1
+Mexican_shoulder_L
+  rotate: true
+  xy: 1777, 1306
+  size: 151, 136
+  orig: 512, 512
+  offset: 198, 171
+  index: -1
+Mexican_shoulder_R
+  rotate: false
+  xy: 1889, 1589
+  size: 113, 103
+  orig: 512, 512
+  offset: 196, 184
+  index: -1
+Persian_Chest
+  rotate: true
+  xy: 727, 583
+  size: 289, 223
+  orig: 512, 512
+  offset: 44, 119
+  index: -1
+Persian_Helm
+  rotate: false
+  xy: 281, 1246
+  size: 228, 230
+  orig: 512, 512
+  offset: 151, 201
+  index: -1
+Persian_shoulder_L
+  rotate: false
+  xy: 1256, 235
+  size: 181, 109
+  orig: 512, 512
+  offset: 158, 230
+  index: -1
+Persian_shoulder_R
+  rotate: true
+  xy: 304, 858
+  size: 124, 76
+  orig: 512, 512
+  offset: 189, 216
+  index: -1
+Pike_Chest
+  rotate: false
+  xy: 391, 1690
+  size: 140, 184
+  orig: 512, 512
+  offset: 188, 160
+  index: -1
+Pike_Helm
+  rotate: false
+  xy: 511, 1246
+  size: 164, 223
+  orig: 512, 512
+  offset: 191, 198
+  index: -1
+Pike_shoulder_L
+  rotate: false
+  xy: 1873, 527
+  size: 170, 136
+  orig: 512, 512
+  offset: 172, 183
+  index: -1
+Pike_shoulder_R
+  rotate: true
+  xy: 1953, 1
+  size: 113, 88
+  orig: 512, 512
+  offset: 192, 203
+  index: -1
+Pirate_Chest
+  rotate: true
+  xy: 1458, 337
+  size: 184, 221
+  orig: 512, 512
+  offset: 167, 123
+  index: -1
+Pirate_Helm
+  rotate: true
+  xy: 1, 523
+  size: 349, 205
+  orig: 512, 512
+  offset: 72, 192
+  index: -1
+Pirate_shoulder_L
+  rotate: true
+  xy: 1358, 1745
+  size: 173, 153
+  orig: 512, 512
+  offset: 159, 172
+  index: -1
+Pirate_shoulder_R
+  rotate: false
+  xy: 1390, 710
+  size: 145, 122
+  orig: 512, 512
+  offset: 184, 170
+  index: -1
+Roman_Chest
+  rotate: false
+  xy: 360, 1478
+  size: 177, 210
+  orig: 512, 512
+  offset: 166, 143
+  index: -1
+Roman_Helm
+  rotate: false
+  xy: 727, 874
+  size: 275, 244
+  orig: 512, 512
+  offset: 149, 200
+  index: -1
+Roman_shoulder_L
+  rotate: true
+  xy: 696, 1861
+  size: 166, 157
+  orig: 512, 512
+  offset: 178, 169
+  index: -1
+Roman_shoulder_R
+  rotate: false
+  xy: 1785, 1708
+  size: 113, 113
+  orig: 512, 512
+  offset: 200, 179
+  index: -1
+Shaman_Chest
+  rotate: true
+  xy: 1238, 1265
+  size: 192, 215
+  orig: 512, 512
+  offset: 162, 149
+  index: -1
+Shaman_Helm
+  rotate: true
+  xy: 513, 982
+  size: 244, 179
+  orig: 512, 512
+  offset: 144, 179
+  index: -1
+Shaman_shoulder_L
+  rotate: false
+  xy: 1457, 523
+  size: 214, 173
+  orig: 512, 512
+  offset: 153, 171
+  index: -1
+Shaman_shoulder_R
+  rotate: false
+  xy: 1833, 856
+  size: 127, 128
+  orig: 512, 512
+  offset: 189, 189
+  index: -1
+Sheriff_Chest
+  rotate: false
+  xy: 389, 647
+  size: 336, 247
+  orig: 512, 512
+  offset: 84, 122
+  index: -1
+Sheriff_Helm
+  rotate: false
+  xy: 258, 143
+  size: 320, 142
+  orig: 512, 512
+  offset: 109, 199
+  index: -1
+Sheriff_shoulder_L
+  rotate: true
+  xy: 539, 1674
+  size: 191, 155
+  orig: 512, 512
+  offset: 157, 177
+  index: -1
+Sheriff_shoulder_R
+  rotate: true
+  xy: 1228, 1813
+  size: 153, 124
+  orig: 512, 512
+  offset: 165, 179
+  index: -1
+Soldier_Chest
+  rotate: true
+  xy: 1215, 358
+  size: 160, 241
+  orig: 512, 512
+  offset: 185, 117
+  index: -1
+Soldier_Helm
+  rotate: false
+  xy: 1608, 171
+  size: 219, 157
+  orig: 512, 512
+  offset: 154, 197
+  index: -1
+Soldier_shoulder_L
+  rotate: false
+  xy: 694, 1120
+  size: 167, 98
+  orig: 512, 512
+  offset: 172, 214
+  index: -1
+Soldier_shoulder_R
+  rotate: false
+  xy: 525, 896
+  size: 122, 82
+  orig: 512, 512
+  offset: 181, 209
+  index: -1
+Stargazer_Chest
+  rotate: false
+  xy: 1829, 141
+  size: 201, 182
+  orig: 512, 512
+  offset: 183, 164
+  index: -1
+Stargazer_Helm
+  rotate: true
+  xy: 1, 1682
+  size: 211, 200
+  orig: 512, 512
+  offset: 147, 190
+  index: -1
+Stargazer_shoulder_L
+  rotate: true
+  xy: 204, 1478
+  size: 212, 154
+  orig: 512, 512
+  offset: 124, 191
+  index: -1
+Stargazer_shoulder_R
+  rotate: true
+  xy: 1228, 1635
+  size: 176, 128
+  orig: 512, 512
+  offset: 183, 184
+  index: -1
+Steel_Chest
+  rotate: false
+  xy: 1064, 1634
+  size: 162, 192
+  orig: 512, 512
+  offset: 177, 160
+  index: -1
+Steel_Helm
+  rotate: false
+  xy: 1673, 527
+  size: 198, 138
+  orig: 512, 512
+  offset: 169, 190
+  index: -1
+Steel_shoulder_L
+  rotate: false
+  xy: 203, 1882
+  size: 159, 148
+  orig: 512, 512
+  offset: 177, 179
+  index: -1
+Steel_shoulder_R
+  rotate: false
+  xy: 1621, 1492
+  size: 125, 116
+  orig: 512, 512
+  offset: 185, 187
+  index: -1
+Terrorist_Chest
+  rotate: true
+  xy: 1215, 520
+  size: 188, 240
+  orig: 512, 512
+  offset: 152, 140
+  index: -1
+Terrorist_Helm
+  rotate: false
+  xy: 1537, 698
+  size: 192, 133
+  orig: 512, 512
+  offset: 175, 193
+  index: -1
+Terrorist_shoulder_L
+  rotate: true
+  xy: 858, 1852
+  size: 167, 149
+  orig: 512, 512
+  offset: 168, 186
+  index: -1
+Terrorist_shoulder_R
+  rotate: false
+  xy: 1513, 1785
+  size: 112, 101
+  orig: 512, 512
+  offset: 199, 193
+  index: -1
+Tiger_Chest
+  rotate: true
+  xy: 1259, 1
+  size: 232, 240
+  orig: 512, 512
+  offset: 148, 104
+  index: -1
+Tiger_Helm
+  rotate: true
+  xy: 1, 1191
+  size: 260, 165
+  orig: 512, 512
+  offset: 129, 181
+  index: -1
+Tiger_shoulder_L
+  rotate: true
+  xy: 696, 1670
+  size: 189, 160
+  orig: 512, 512
+  offset: 161, 161
+  index: -1
+Tiger_shoulder_R
+  rotate: false
+  xy: 1802, 1169
+  size: 147, 125
+  orig: 512, 512
+  offset: 170, 171
+  index: -1
+Warlock_Chest
+  rotate: false
+  xy: 1, 1
+  size: 255, 305
+  orig: 512, 512
+  offset: 124, 105
+  index: -1
+Warlock_Helm
+  rotate: false
+  xy: 966, 358
+  size: 247, 235
+  orig: 512, 512
+  offset: 124, 196
+  index: -1
+Warlock_shoulder_L
+  rotate: false
+  xy: 952, 595
+  size: 241, 241
+  orig: 512, 512
+  offset: 83, 175
+  index: -1
+Warlock_shoulder_R
+  rotate: false
+  xy: 203, 1692
+  size: 186, 188
+  orig: 512, 512
+  offset: 207, 182
+  index: -1
+Winter_Chest
+  rotate: true
+  xy: 1004, 1081
+  size: 187, 232
+  orig: 512, 512
+  offset: 158, 129
+  index: -1
+Winter_Helm
+  rotate: true
+  xy: 169, 874
+  size: 302, 133
+  orig: 512, 512
+  offset: 112, 199
+  index: -1
+Winter_shoulder_L
+  rotate: false
+  xy: 1, 1895
+  size: 159, 143
+  orig: 512, 512
+  offset: 177, 173
+  index: -1
+Winter_shoulder_R
+  rotate: true
+  xy: 1833, 986
+  size: 116, 119
+  orig: 512, 512
+  offset: 191, 171
+  index: -1
+Wood_Chest
+  rotate: false
+  xy: 1681, 330
+  size: 201, 195
+  orig: 512, 512
+  offset: 155, 159
+  index: -1
+Wood_Helm
+  rotate: false
+  xy: 992, 1
+  size: 265, 117
+  orig: 512, 512
+  offset: 123, 198
+  index: -1
+Wood_shoulder_L
+  rotate: true
+  xy: 1884, 325
+  size: 175, 153
+  orig: 512, 512
+  offset: 165, 181
+  index: -1
+Wood_shoulder_R
+  rotate: true
+  xy: 1785, 1589
+  size: 117, 102
+  orig: 512, 512
+  offset: 197, 205
+  index: -1

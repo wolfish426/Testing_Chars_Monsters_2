@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6eb4ac5a12468404fa44bee557556d38
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Archer/Export/archer_m12/Archer_m12_SkeletonData.asset
+  uploadId: 726511

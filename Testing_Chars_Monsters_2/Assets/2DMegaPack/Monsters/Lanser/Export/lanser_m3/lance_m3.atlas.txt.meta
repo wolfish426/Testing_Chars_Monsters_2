@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ab416b08a4e137340a2ff565e376ed87
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Lanser/Export/lanser_m3/lance_m3.atlas.txt
+  uploadId: 726511

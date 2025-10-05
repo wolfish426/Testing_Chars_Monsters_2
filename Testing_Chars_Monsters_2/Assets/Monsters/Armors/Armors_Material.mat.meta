@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26fa3e9ea87b241d0bebf76095ca30af
+timeCreated: 1536815725
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Armors/Armors_Material.mat
+  uploadId: 391006

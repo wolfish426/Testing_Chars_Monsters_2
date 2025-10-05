@@ -1,0 +1,125 @@
+
+sin_m3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 657
+  size: 321, 366
+  orig: 321, 366
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 324, 824
+  size: 199, 116
+  orig: 199, 116
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 548, 588
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 558, 732
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1, 27
+  size: 177, 372
+  orig: 177, 372
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 458, 712
+  size: 98, 158
+  orig: 98, 158
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 558, 823
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 668, 837
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 548, 938
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 442, 872
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 1, 206
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 375, 1
+  size: 214, 224
+  orig: 214, 224
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 601, 28
+  size: 132, 187
+  orig: 132, 187
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 324, 678
+  size: 132, 144
+  orig: 132, 144
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 548, 488
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 254, 217
+  size: 384, 140
+  orig: 384, 140
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 254, 359
+  size: 296, 292
+  orig: 296, 292
+  offset: 0, 0
+  index: -1

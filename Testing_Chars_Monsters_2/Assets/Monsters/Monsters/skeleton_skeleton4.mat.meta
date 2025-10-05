@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9275b1a22bce34bda805998a59d05ad6
+timeCreated: 1535343553
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Monsters/skeleton_skeleton4.mat
+  uploadId: 391006

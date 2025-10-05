@@ -1,0 +1,160 @@
+
+Lancer_2.png
+size: 1137,1137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1
+  rotate: false
+  xy: 784, 851
+  size: 283, 283
+  orig: 288, 287
+  offset: 2, 1
+  index: -1
+1/10
+  rotate: false
+  xy: 1070, 1023
+  size: 64, 111
+  orig: 66, 113
+  offset: 1, 1
+  index: -1
+1/11
+  rotate: false
+  xy: 1070, 861
+  size: 50, 59
+  orig: 52, 61
+  offset: 1, 1
+  index: -1
+1/12
+  rotate: false
+  xy: 3, 807
+  size: 778, 327
+  orig: 780, 329
+  offset: 1, 1
+  index: -1
+1/13
+  rotate: true
+  xy: 405, 56
+  size: 98, 92
+  orig: 100, 94
+  offset: 1, 1
+  index: -1
+1/14
+  rotate: true
+  xy: 1070, 923
+  size: 97, 61
+  orig: 99, 63
+  offset: 1, 1
+  index: -1
+1/15
+  rotate: false
+  xy: 1061, 27
+  size: 49, 44
+  orig: 51, 46
+  offset: 1, 1
+  index: -1
+1/16
+  rotate: true
+  xy: 500, 54
+  size: 85, 179
+  orig: 87, 181
+  offset: 1, 1
+  index: -1
+1/17
+  rotate: true
+  xy: 3, 73
+  size: 177, 231
+  orig: 179, 233
+  offset: 1, 1
+  index: -1
+1/18
+  rotate: false
+  xy: 997, 248
+  size: 133, 145
+  orig: 135, 147
+  offset: 1, 1
+  index: -1
+1/19
+  rotate: true
+  xy: 545, 398
+  size: 109, 205
+  orig: 111, 207
+  offset: 1, 1
+  index: -1
+1/2
+  rotate: true
+  xy: 1057, 624
+  size: 224, 77
+  orig: 226, 80
+  offset: 1, 2
+  index: -1
+1/20
+  rotate: true
+  xy: 784, 429
+  size: 419, 270
+  orig: 419, 270
+  offset: 0, 0
+  index: -1
+1/3
+  rotate: true
+  xy: 1057, 396
+  size: 225, 66
+  orig: 227, 68
+  offset: 1, 1
+  index: -1
+1/4
+  rotate: true
+  xy: 1061, 74
+  size: 171, 62
+  orig: 174, 66
+  offset: 2, 1
+  index: -1
+1/5
+  rotate: false
+  xy: 3, 25
+  size: 184, 45
+  orig: 186, 47
+  offset: 1, 1
+  index: -1
+1/6
+  rotate: false
+  xy: 3, 253
+  size: 539, 551
+  orig: 539, 551
+  offset: 0, 0
+  index: -1
+1/7
+  rotate: true
+  xy: 237, 157
+  size: 93, 278
+  orig: 93, 278
+  offset: 0, 0
+  index: -1
+1/8
+  rotate: false
+  xy: 545, 510
+  size: 219, 294
+  orig: 219, 294
+  offset: 0, 0
+  index: -1
+1/9
+  rotate: true
+  xy: 237, 36
+  size: 118, 165
+  orig: 120, 167
+  offset: 1, 1
+  index: -1
+1/b
+  rotate: true
+  xy: 997, 19
+  size: 226, 61
+  orig: 228, 63
+  offset: 1, 1
+  index: -1
+1/shadow
+  rotate: false
+  xy: 545, 142
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

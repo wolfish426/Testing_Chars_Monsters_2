@@ -1,0 +1,153 @@
+
+Archer_m13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1262, 1280
+  size: 395, 353
+  orig: 395, 353
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1592, 1909
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 894, 1944
+  size: 83, 115
+  orig: 83, 115
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1462, 1913
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 10, 1829
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1191, 1929
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 693, 1375
+  size: 310, 559
+  orig: 310, 559
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1724, 1907
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1309, 1929
+  size: 98, 143
+  orig: 98, 143
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 701, 1945
+  size: 82, 183
+  orig: 82, 183
+  offset: 0, 0
+  index: -1
+188
+  rotate: true
+  xy: 1145, 1695
+  size: 208, 410
+  orig: 208, 410
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 10, 1506
+  size: 280, 360
+  orig: 280, 360
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 883, 1713
+  size: 252, 215
+  orig: 252, 215
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 380, 1459
+  size: 303, 302
+  orig: 303, 302
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 10, 1987
+  size: 193, 40
+  orig: 193, 40
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 669, 1771
+  size: 164, 204
+  orig: 164, 204
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1859, 1904
+  size: 123, 168
+  orig: 123, 168
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 170, 1796
+  size: 152, 489
+  orig: 165, 534
+  offset: 12, 42
+  index: -1
+9
+  rotate: true
+  xy: 1019, 1938
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 213, 1958
+  size: 478, 69
+  orig: 478, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 1565, 1643
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

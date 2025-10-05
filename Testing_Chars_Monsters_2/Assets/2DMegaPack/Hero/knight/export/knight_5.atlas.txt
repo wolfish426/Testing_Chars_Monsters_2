@@ -1,0 +1,118 @@
+
+knight_5.png
+size: 1218,1218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1
+  rotate: true
+  xy: 3, 528
+  size: 429, 606
+  orig: 431, 608
+  offset: 1, 1
+  index: -1
+1/10
+  rotate: true
+  xy: 733, 412
+  size: 93, 88
+  orig: 95, 90
+  offset: 1, 1
+  index: -1
+1/11
+  rotate: false
+  xy: 3, 12
+  size: 361, 493
+  orig: 361, 497
+  offset: 0, 2
+  index: -1
+1/12
+  rotate: false
+  xy: 874, 1027
+  size: 321, 188
+  orig: 321, 188
+  offset: 0, 0
+  index: -1
+1/13
+  rotate: true
+  xy: 874, 901
+  size: 123, 272
+  orig: 123, 272
+  offset: 0, 0
+  index: -1
+1/14
+  rotate: true
+  xy: 866, 788
+  size: 110, 264
+  orig: 110, 264
+  offset: 0, 0
+  index: -1
+1/15
+  rotate: false
+  xy: 758, 28
+  size: 113, 214
+  orig: 113, 214
+  offset: 0, 0
+  index: -1
+1/2
+  rotate: true
+  xy: 367, 3
+  size: 394, 388
+  orig: 394, 388
+  offset: 0, 0
+  index: -1
+1/3
+  rotate: true
+  xy: 824, 245
+  size: 260, 380
+  orig: 262, 382
+  offset: 1, 1
+  index: -1
+1/4
+  rotate: true
+  xy: 367, 400
+  size: 125, 226
+  orig: 127, 228
+  offset: 1, 1
+  index: -1
+1/5
+  rotate: false
+  xy: 866, 608
+  size: 156, 177
+  orig: 158, 179
+  offset: 1, 1
+  index: -1
+1/6
+  rotate: true
+  xy: 596, 410
+  size: 95, 134
+  orig: 97, 136
+  offset: 1, 1
+  index: -1
+1/7
+  rotate: false
+  xy: 3, 960
+  size: 868, 255
+  orig: 870, 257
+  offset: 1, 1
+  index: -1
+1/8
+  rotate: true
+  xy: 874, 42
+  size: 200, 170
+  orig: 202, 172
+  offset: 1, 1
+  index: -1
+1/9
+  rotate: false
+  xy: 1047, 86
+  size: 158, 156
+  orig: 160, 158
+  offset: 1, 1
+  index: -1
+1/shad
+  rotate: true
+  xy: 612, 508
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

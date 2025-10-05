@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 304381fc0f96c7647b229543ecf5d913
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Hero/Archer/export/Archer_2.json
+  uploadId: 726511

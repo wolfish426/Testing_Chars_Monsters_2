@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8745dfa4d6a180b4a909d25a698d91b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Knight/Export/knight_m5/knight_m5_SkeletonData.asset
+  uploadId: 726511

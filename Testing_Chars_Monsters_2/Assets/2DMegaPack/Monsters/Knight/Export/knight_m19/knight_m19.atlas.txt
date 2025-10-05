@@ -1,0 +1,139 @@
+
+knight_m19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 537, 368
+  size: 234, 231
+  orig: 234, 231
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 783
+  size: 630, 211
+  orig: 630, 211
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 537, 278
+  size: 88, 231
+  orig: 88, 231
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 1, 194
+  size: 123, 136
+  orig: 123, 136
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 238, 64
+  size: 97, 141
+  orig: 97, 141
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 126, 147
+  size: 110, 183
+  orig: 110, 183
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 254, 633
+  size: 157, 148
+  orig: 157, 148
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 157, 54
+  size: 91, 79
+  orig: 91, 79
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 380, 193
+  size: 97, 151
+  orig: 97, 151
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 1, 332
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 337, 8
+  size: 80, 183
+  orig: 80, 183
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 413, 648
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 112, 1
+  size: 144, 43
+  orig: 144, 43
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 479, 200
+  size: 144, 43
+  orig: 144, 43
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 633, 604
+  size: 390, 357
+  orig: 390, 357
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1, 44
+  size: 109, 148
+  orig: 109, 148
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 524, 189
+  size: 87, 103
+  orig: 87, 103
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 254, 346
+  size: 281, 256
+  orig: 281, 256
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 254, 207
+  size: 137, 124
+  orig: 137, 124
+  offset: 0, 0
+  index: -1

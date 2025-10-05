@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 65525d388d34d8d4ab6a9505ec0955c8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Lanser/Export/lanser_m2/lance_m2_SkeletonData.asset
+  uploadId: 726511

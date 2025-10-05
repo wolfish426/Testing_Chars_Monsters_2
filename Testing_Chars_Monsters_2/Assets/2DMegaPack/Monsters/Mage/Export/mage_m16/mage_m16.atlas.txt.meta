@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b067460af990c154eb2e54b651a3cbae
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Mage/Export/mage_m16/mage_m16.atlas.txt
+  uploadId: 726511

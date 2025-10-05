@@ -1,0 +1,132 @@
+
+lance_m6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+88
+  rotate: false
+  xy: 421, 115
+  size: 160, 30
+  orig: 160, 30
+  offset: 0, 0
+  index: -1
+L19
+  rotate: false
+  xy: 1, 541
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+LLeg копия 2
+  rotate: true
+  xy: 452, 688
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+RLeg копия 3
+  rotate: true
+  xy: 534, 157
+  size: 85, 163
+  orig: 85, 163
+  offset: 0, 0
+  index: -1
+Слой 1
+  rotate: true
+  xy: 421, 147
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+Слой 10
+  rotate: true
+  xy: 1, 213
+  size: 326, 273
+  orig: 326, 273
+  offset: 0, 0
+  index: -1
+Слой 11
+  rotate: true
+  xy: 802, 439
+  size: 243, 208
+  orig: 243, 208
+  offset: 0, 0
+  index: -1
+Слой 13
+  rotate: true
+  xy: 802, 216
+  size: 221, 195
+  orig: 221, 195
+  offset: 0, 0
+  index: -1
+Слой 14
+  rotate: true
+  xy: 452, 244
+  size: 438, 348
+  orig: 438, 348
+  offset: 0, 0
+  index: -1
+Слой 2
+  rotate: true
+  xy: 154, 91
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+Слой 3
+  rotate: true
+  xy: 605, 693
+  size: 99, 175
+  orig: 99, 175
+  offset: 0, 0
+  index: -1
+Слой 366 копия
+  rotate: true
+  xy: 276, 361
+  size: 178, 169
+  orig: 178, 169
+  offset: 0, 0
+  index: -1
+Слой 4
+  rotate: false
+  xy: 1, 794
+  size: 867, 227
+  orig: 867, 227
+  offset: 0, 0
+  index: -1
+Слой 5
+  rotate: false
+  xy: 1, 89
+  size: 151, 122
+  orig: 151, 122
+  offset: 0, 0
+  index: -1
+Слой 6
+  rotate: false
+  xy: 699, 123
+  size: 94, 119
+  orig: 94, 119
+  offset: 0, 0
+  index: -1
+Слой 7
+  rotate: false
+  xy: 276, 141
+  size: 143, 218
+  orig: 143, 218
+  offset: 0, 0
+  index: -1
+Слой 8
+  rotate: false
+  xy: 870, 684
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+Слой 9
+  rotate: false
+  xy: 870, 870
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1

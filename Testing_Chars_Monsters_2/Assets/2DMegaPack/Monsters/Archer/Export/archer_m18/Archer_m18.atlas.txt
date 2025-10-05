@@ -1,0 +1,153 @@
+
+Archer_m18.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 10, 1503
+  size: 308, 535
+  orig: 308, 535
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 335, 10
+  size: 140, 167
+  orig: 140, 167
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 485, 11
+  size: 100, 166
+  orig: 100, 166
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 390, 1256
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 350, 564
+  size: 199, 147
+  orig: 199, 147
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 390, 1137
+  size: 109, 89
+  orig: 109, 89
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 10, 46
+  size: 315, 460
+  orig: 315, 460
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 489, 1140
+  size: 104, 106
+  orig: 104, 106
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 480, 1887
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 390, 1395
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+188
+  rotate: false
+  xy: 172, 1083
+  size: 208, 410
+  orig: 208, 410
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 350, 773
+  size: 300, 265
+  orig: 300, 265
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 507, 569
+  size: 132, 194
+  orig: 132, 194
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 335, 187
+  size: 348, 314
+  orig: 348, 314
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 595, 12
+  size: 165, 72
+  orig: 165, 72
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 446, 1638
+  size: 135, 156
+  orig: 135, 156
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 328, 1804
+  size: 142, 234
+  orig: 142, 234
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 10, 1004
+  size: 152, 489
+  orig: 165, 534
+  offset: 12, 42
+  index: -1
+9
+  rotate: false
+  xy: 328, 1567
+  size: 108, 227
+  orig: 108, 227
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 10, 516
+  size: 478, 69
+  orig: 478, 69
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 89, 545
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

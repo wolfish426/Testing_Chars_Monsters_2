@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dd0aca7600056e409b191f6c62f1b97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Hero/Fighter/export/Fighter_2_SkeletonData.asset
+  uploadId: 726511

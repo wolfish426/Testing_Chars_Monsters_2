@@ -1,0 +1,139 @@
+
+Archer_m12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 88, 525
+  size: 346, 444
+  orig: 346, 444
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 560, 235
+  size: 131, 134
+  orig: 131, 134
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 466, 38
+  size: 88, 143
+  orig: 88, 143
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 564, 22
+  size: 88, 85
+  orig: 88, 85
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 172, 980
+  size: 135, 120
+  orig: 135, 120
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 659, 53
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 10, 1478
+  size: 328, 534
+  orig: 328, 534
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 564, 120
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 366, 36
+  size: 90, 145
+  orig: 90, 145
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 271, 10
+  size: 85, 171
+  orig: 85, 171
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 172, 1110
+  size: 255, 358
+  orig: 255, 358
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 444, 525
+  size: 221, 217
+  orig: 221, 217
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 271, 191
+  size: 324, 279
+  orig: 324, 279
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 560, 379
+  size: 108, 136
+  orig: 108, 136
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 317, 985
+  size: 115, 165
+  orig: 115, 165
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 10, 979
+  size: 152, 489
+  orig: 165, 534
+  offset: 12, 42
+  index: -1
+9
+  rotate: false
+  xy: 444, 752
+  size: 99, 223
+  orig: 99, 223
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 10, 492
+  size: 477, 68
+  orig: 478, 69
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 10, 33
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

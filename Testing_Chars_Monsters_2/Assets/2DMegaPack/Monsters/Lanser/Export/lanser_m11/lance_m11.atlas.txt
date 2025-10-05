@@ -1,0 +1,132 @@
+
+lance_m11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 439
+  size: 361, 354
+  orig: 361, 354
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 875, 128
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 763, 124
+  size: 110, 126
+  orig: 110, 126
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 868, 252
+  size: 80, 174
+  orig: 80, 174
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 885, 874
+  size: 134, 145
+  orig: 134, 145
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 657, 114
+  size: 104, 136
+  orig: 104, 136
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1, 795
+  size: 882, 224
+  orig: 882, 224
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 464, 102
+  size: 104, 150
+  orig: 104, 150
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 570, 90
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 657, 252
+  size: 209, 288
+  orig: 209, 288
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 868, 428
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 364, 254
+  size: 291, 286
+  orig: 291, 286
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1, 4
+  size: 135, 252
+  orig: 135, 252
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 289, 89
+  size: 173, 163
+  orig: 173, 163
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 141
+  size: 286, 296
+  orig: 286, 296
+  offset: 0, 0
+  index: -1
+88
+  rotate: true
+  xy: 950, 280
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 815, 582
+  size: 211, 204
+  orig: 211, 204
+  offset: 0, 0
+  index: -1
+L19
+  rotate: false
+  xy: 364, 542
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b02c7a8f68d4cb4f98a045b999288aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Hero/Sin/export/sin_2_Atlas.asset
+  uploadId: 726511

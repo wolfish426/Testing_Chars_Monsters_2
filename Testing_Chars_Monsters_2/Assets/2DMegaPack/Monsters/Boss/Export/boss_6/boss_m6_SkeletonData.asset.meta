@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef575f9c720282646a3e6b98c4b1e4cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Boss/Export/boss_6/boss_m6_SkeletonData.asset
+  uploadId: 726511

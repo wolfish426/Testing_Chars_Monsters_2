@@ -1,0 +1,139 @@
+
+sin_m15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 452, 611
+  size: 406, 326
+  orig: 406, 326
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 585, 277
+  size: 208, 123
+  orig: 208, 123
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 795, 281
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 711, 403
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 272, 417
+  size: 158, 347
+  orig: 158, 347
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 795, 115
+  size: 74, 164
+  orig: 74, 164
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 910, 285
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 925, 188
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 801, 404
+  size: 79, 184
+  orig: 79, 192
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 585, 112
+  size: 100, 163
+  orig: 100, 170
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1, 766
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 871, 142
+  size: 137, 52
+  orig: 137, 52
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 230, 237
+  size: 170, 178
+  orig: 170, 178
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1, 176
+  size: 290, 227
+  orig: 290, 227
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 585, 402
+  size: 124, 207
+  orig: 124, 207
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 711, 485
+  size: 155, 124
+  orig: 155, 124
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 871, 52
+  size: 88, 114
+  orig: 88, 114
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 432, 258
+  size: 351, 151
+  orig: 351, 151
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1, 468
+  size: 296, 269
+  orig: 296, 269
+  offset: 0, 0
+  index: -1

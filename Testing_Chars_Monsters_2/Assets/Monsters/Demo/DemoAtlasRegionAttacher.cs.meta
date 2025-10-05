@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fa69c4aa12046418f8250585e8a90ce3
+timeCreated: 1534761890
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127214
+  packageName: 2D Monsters Pack (Spine)
+  packageVersion: 1.1
+  assetPath: Assets/Monsters/Demo/DemoAtlasRegionAttacher.cs
+  uploadId: 391006

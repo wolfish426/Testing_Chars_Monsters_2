@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b75908096c6f4be4dad6e5d8c5cb47bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Hero/Sin/export/sin_13_SkeletonData.asset
+  uploadId: 726511

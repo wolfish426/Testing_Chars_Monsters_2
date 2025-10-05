@@ -1,0 +1,153 @@
+
+Archer_m10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 450, 525
+  size: 146, 183
+  orig: 146, 183
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 467, 1513
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 545, 1882
+  size: 139, 120
+  orig: 139, 120
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 580, 1748
+  size: 124, 119
+  orig: 124, 119
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 172, 1010
+  size: 173, 162
+  orig: 173, 162
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 580, 1633
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 10, 1505
+  size: 300, 516
+  orig: 300, 516
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 467, 1631
+  size: 103, 151
+  orig: 103, 151
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 355, 1010
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 349, 718
+  size: 282, 255
+  orig: 282, 255
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 450, 1011
+  size: 161, 218
+  orig: 161, 218
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 675, 1925
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 10, 10
+  size: 164, 32
+  orig: 164, 32
+  offset: 0, 0
+  index: -1
+55
+  rotate: true
+  xy: 320, 1555
+  size: 227, 137
+  orig: 227, 137
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 10, 52
+  size: 436, 457
+  orig: 436, 457
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 320, 1792
+  size: 215, 229
+  orig: 215, 229
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 10, 1006
+  size: 152, 489
+  orig: 165, 534
+  offset: 12, 42
+  index: -1
+88
+  rotate: true
+  xy: 172, 1182
+  size: 313, 306
+  orig: 313, 306
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 349, 519
+  size: 91, 189
+  orig: 91, 189
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: true
+  xy: 10, 519
+  size: 477, 68
+  orig: 478, 69
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 88, 547
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

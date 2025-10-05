@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b425fc8b2d024514b9dbe5c2d21ba809
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Hero/Lancer/export/Lancer_2_SkeletonData.asset
+  uploadId: 726511

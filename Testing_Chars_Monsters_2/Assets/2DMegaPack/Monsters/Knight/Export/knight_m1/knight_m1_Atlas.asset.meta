@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea40d01a6fb2bb940a7d1159bf3d8e7b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 302838
+  packageName: Animated 2D Mega:Mix1+Mix2(heroes,monsters,bosses)
+  packageVersion: 1.0
+  assetPath: Assets/2DMegaPack/Monsters/Knight/Export/knight_m1/knight_m1_Atlas.asset
+  uploadId: 726511

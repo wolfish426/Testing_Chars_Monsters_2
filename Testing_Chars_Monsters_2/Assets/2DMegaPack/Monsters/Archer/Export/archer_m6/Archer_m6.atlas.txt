@@ -1,0 +1,146 @@
+
+Archer_m6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 10, 10
+  size: 289, 236
+  orig: 289, 236
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 606, 339
+  size: 113, 152
+  orig: 113, 152
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 375, 680
+  size: 142, 143
+  orig: 142, 143
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 433, 127
+  size: 102, 151
+  orig: 102, 152
+  offset: 0, 1
+  index: -1
+13
+  rotate: false
+  xy: 650, 167
+  size: 85, 162
+  orig: 85, 162
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 256, 168
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 456, 288
+  size: 169, 140
+  orig: 169, 140
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 545, 153
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 553, 921
+  size: 283, 478
+  orig: 283, 478
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 528, 682
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 182, 677
+  size: 145, 183
+  orig: 145, 183
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 256, 26
+  size: 132, 116
+  orig: 132, 116
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 387, 146
+  size: 153, 36
+  orig: 153, 36
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 10, 309
+  size: 354, 436
+  orig: 354, 436
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 456, 467
+  size: 203, 155
+  orig: 203, 155
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 10, 673
+  size: 162, 531
+  orig: 165, 534
+  offset: 2, 0
+  index: -1
+81
+  rotate: false
+  xy: 182, 910
+  size: 361, 294
+  orig: 361, 294
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 768, 271
+  size: 96, 181
+  orig: 96, 181
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 182, 832
+  size: 477, 68
+  orig: 478, 69
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 669, 462
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1

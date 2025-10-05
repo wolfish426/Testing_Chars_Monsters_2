@@ -1,0 +1,125 @@
+
+boss_m13.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1, 1394
+  size: 375, 533
+  orig: 375, 533
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1032, 1380
+  size: 642, 780
+  orig: 642, 780
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 342, 1101
+  size: 181, 291
+  orig: 181, 291
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1814, 1606
+  size: 242, 203
+  orig: 242, 203
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 1814, 1850
+  size: 208, 172
+  orig: 208, 172
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 525, 1066
+  size: 135, 269
+  orig: 135, 269
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1814, 1435
+  size: 196, 169
+  orig: 196, 169
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 805, 1164
+  size: 163, 181
+  orig: 163, 181
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 525, 1203
+  size: 124, 278
+  orig: 124, 278
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 342, 844
+  size: 176, 255
+  orig: 176, 255
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 536, 1518
+  size: 449, 251
+  orig: 449, 251
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 944, 1348
+  size: 168, 49
+  orig: 168, 49
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 1063
+  size: 339, 329
+  orig: 339, 329
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 536, 1329
+  size: 187, 406
+  orig: 187, 406
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 995, 1119
+  size: 316, 259
+  orig: 316, 259
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1814, 1279
+  size: 154, 193
+  orig: 154, 193
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1, 1771
+  size: 1029, 251
+  orig: 1029, 251
+  offset: 0, 0
+  index: -1
